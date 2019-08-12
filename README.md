@@ -6,3 +6,4 @@ I utilize the Pandas, Matplotlib, and Numpy libraries for exploratory data analy
 understanding of the data. In some of these projects I go further and implement data models to predict on classifications
 whereas in others the focus is on EDA.
 
+Each project possess it's own README file.
